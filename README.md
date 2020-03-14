@@ -1,5 +1,5 @@
 Android  JetPackProject
-Edit han.gilhwan
+Edited han.gilhwan
 
 ■Originalからの修正?容
 ①コメント追加
